@@ -1,4 +1,4 @@
 {
-  "version": "3.2",
-  "updates": "Fixed Errors." 
+  "version": "3.3",
+  "updates": "Translated to English. Webhook event converted to function(better than)." 
 }
