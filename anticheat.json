@@ -1,4 +1,4 @@
 {
-  "version": "3.3",
-  "updates": "Translated to English. Webhook event converted to function(better than)." 
+  "version": "3.5",
+  "updates": "Implement banning system with discord notification Add kick and ban method Adjust Explosion Event Fix missing in client in getting blacklisted model Fetching blacklisted Events Minor fix for identifier to discord Blacklisted list to config" 
 }
