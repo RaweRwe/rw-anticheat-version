@@ -1,4 +1,4 @@
 {
-  "version": "3.5",
-  "updates": "Implement banning system with discord notification Add kick and ban method Adjust Explosion Event Fix missing in client in getting blacklisted model Fetching blacklisted Events Minor fix for identifier to discord Blacklisted list to config" 
+  "version": "3.6",
+  "updates": "Config.AntiBlacklistedTasks , Config.AntiBlacklistedAnims , Config.DeleteBrokenCars added BlacklistedKey moved to config More config selection" 
 }
