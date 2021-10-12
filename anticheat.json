@@ -1,4 +1,4 @@
 {
-  "version": "3.6",
-  "updates": "Config.AntiBlacklistedTasks , Config.AntiBlacklistedAnims , Config.DeleteBrokenCars added BlacklistedKey moved to config More config selection" 
+  "version": "3.7,
+  "updates": "Fixed Config by cookie" 
 }
